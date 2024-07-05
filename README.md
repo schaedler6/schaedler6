@@ -1,3 +1,25 @@
+# Apresentação
+
+## Dados Pessoais
+
+- **Nome:** Sidinei Roberto Schaedler
+- **Idade:** 44 anos
+- **Curso:** Técnico em Desenvolvimento de Sistemas
+
+## Sobre Mim
+
+Olá, meu nome é Sidinei Roberto Schaedler. Tenho 44 anos,Judeu, investidor amador da B3 e estudante do curso técnico em Desenvolvimento de Sistemas. Estou animado para aprender e crescer na área de tecnologia, buscando sempre novos desafios e oportunidades para aplicar meus conhecimentos.
+
+## Objetivos
+
+- Aprender novas tecnologias de desenvolvimento
+- Contribuir para projetos inovadores
+- Desenvolver habilidades em programação e desenvolvimento de sistemas.
+
+## Contato
+
+- **E-mail:** schaedler6@gmail.com
+- **whatsapp:** 51997860059
 ## Hi there 👋
 **schaedler6/schaedler6**
 
