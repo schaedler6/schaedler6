@@ -10,7 +10,7 @@
 
 ![Bandeira de Israel](https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg)
 
-Olá, meu nome é Sidinei Roberto Schaedler. Tenho 44 anos, sou Judeu, investidor amador da B3 e estudante do curso técnico em Desenvolvimento de Sistemas. Estou animado para aprender e crescer na área de tecnologia, buscando sempre novos desafios e oportunidades para aplicar meus conhecimentos.
+Olá, meu nome é Sidinei Roberto Schaedler. Tenho 44 anos, sou Judeu, Modelista e design de bolsas e calçados, investidor amador da B3 e estudante do curso técnico em Desenvolvimento de Sistemas. Estou animado para aprender e crescer na área de tecnologia, buscando sempre novos desafios e oportunidades para aplicar meus conhecimentos.
 
 ## Objetivos
 
