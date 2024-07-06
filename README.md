@@ -1,4 +1,4 @@
-# Apresentação
+# 😁 Um pouco Sobre mim
 
 ## Dados Pessoais
 
@@ -8,20 +8,24 @@
 
 ## Sobre Mim
 
-Olá, meu nome é Sidinei Roberto Schaedler. Tenho 44 anos,Judeu, investidor amador da B3 e estudante do curso técnico em Desenvolvimento de Sistemas. Estou animado para aprender e crescer na área de tecnologia, buscando sempre novos desafios e oportunidades para aplicar meus conhecimentos.
+![Bandeira de Israel](https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg)
+
+Olá, meu nome é Sidinei Roberto Schaedler. Tenho 44 anos, sou Judeu, investidor amador da B3 e estudante do curso técnico em Desenvolvimento de Sistemas. Estou animado para aprender e crescer na área de tecnologia, buscando sempre novos desafios e oportunidades para aplicar meus conhecimentos.
 
 ## Objetivos
 
 - Aprender novas tecnologias de desenvolvimento
 - Contribuir para projetos inovadores
-- Desenvolver habilidades em programação e desenvolvimento de sistemas.
+- Desenvolver habilidades em programação e desenvolvimento de sistemas
 
 ## Contato
 
 - **E-mail:** schaedler6@gmail.com
-- **whatsapp:** 51997860059
+- **WhatsApp:** 51997860059
+
 ## Hi there 👋
-**schaedler6/schaedler6**
+**schaedler6/schaedler6**@gmail.com
+- **whatsapp:** 5199786
 
 
 # 💻 Tech Stack:
