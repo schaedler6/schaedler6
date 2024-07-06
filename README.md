@@ -21,7 +21,7 @@ Olá, meu nome é Sidinei Roberto Schaedler. Tenho 44 anos, sou Judeu, Modelista
 ## Contato
 
 - **E-mail:** schaedler6@gmail.com
-- **WhatsApp:** 51997860059
+- **WhatsApp:**51997860059
 
 ## Hi there 👋
 **schaedler6/schaedler6**@gmail.com
