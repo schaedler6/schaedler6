@@ -17,6 +17,7 @@ Olá, meu nome é Sidinei Roberto Schaedler. Tenho 44 anos, sou Judeu, Modelista
 - Aprender novas tecnologias de desenvolvimento
 - Contribuir para projetos inovadores
 - Desenvolver habilidades em programação e desenvolvimento de sistemas
+## Hobbi novas tecnologias ,novas linguagens de progração, inteligencias artificiais;
 
 ## Contato
 
