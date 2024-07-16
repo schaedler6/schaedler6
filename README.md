@@ -63,5 +63,5 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo:
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
 
 ### GIF Animado
-![Mario Bros](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)
+![Star Wars](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
