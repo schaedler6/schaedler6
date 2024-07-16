@@ -30,10 +30,6 @@ Olá, meu nome é Sidinei Roberto Schaedler. Tenho 44 anos, sou Judeu, Modelista
 
 
 # 💻 Tech Stack:
-Aqui estão algumas das tecnologias e ferramentas que utilizo:
-
-Aqui estão algumas das tecnologias e ferramentas que utilizo:
-
 ### Linguagens de Programação
 | Java | Python | JavaScript |
 | :--: | :----: | :--------: |
@@ -66,6 +62,4 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo:
 
 ### GIF Animado
 ![GIF Exemplo](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
-[![](https://visitcount.itsvg.in/api?id=Schaedler6&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
