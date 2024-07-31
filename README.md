@@ -8,7 +8,8 @@
 
 ## Sobre Mim
 
-<img src="https://media.giphy.com/media/TzLrRkHSfRZVi/giphy.gif" alt="Dinossauro rugindo">
+![Dinossauro rugindo](https://media.giphy.com/media/TzLrRkHSfRZVi/giphy.gif)
+
 
 ## Objetivos
 
