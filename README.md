@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-https://giphy.com/gifs/[dinosaur](https://www.blackbox.ai/?q=dinosaur)-roar-TzLrRkHSfRZVi
+<img src="https://media.giphy.com/media/TzLrRkHSfRZVi/giphy.gif" alt="Dinossauro rugindo">
 
 ## Objetivos
 
