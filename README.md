@@ -8,10 +8,7 @@
 
 ## Sobre Mim
 
-import matrix
-
-https://www.google.com/search?q=dinossauro&tbm=isch
-Olá, meu nome é Sidinei Roberto Schaedler. Tenho 44 anos, sou Judeu, Modelista e design de bolsas e calçados, investidor amador da B3 e estudante do curso técnico em Desenvolvimento de Sistemas. Estou animado para aprender e crescer na área de tecnologia, buscando sempre novos desafios e oportunidades para aplicar meus conhecimentos.
+https://giphy.com/gifs/[dinosaur](https://www.blackbox.ai/?q=dinosaur)-roar-TzLrRkHSfRZVi
 
 ## Objetivos
 
