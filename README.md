@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-<img src="https://giphy.com/gifs/loop-motion-graphics-techno-xT9IgN8YKRhByRBzMI"
+https://giphy.com/gifs/loop-motion-graphics-techno-xT9IgN8YKRhByRBzMI
 
 
 
