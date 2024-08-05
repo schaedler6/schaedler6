@@ -10,7 +10,7 @@
 Sidinei Roberto Schaedler
 🔧 Desenvolvedor e Designer Criativo
 🎓 Estudante de Desenvolvimento de Sistemas no Senac
-🎨 Estilista e Fundador da Marca SYDD1
+* Estilista e Fundador da Marca SYDD1
 
 
 
