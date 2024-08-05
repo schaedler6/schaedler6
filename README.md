@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 
-<img src="https://media.giphy.com/media/TzLrRkHSfRZVi/giphy.gif" alt="Dinossauro rugindo">
+<img src="https://giphy.com/gifs/loop-motion-graphics-techno-xT9IgN8YKRhByRBzMI"
 
 
 
