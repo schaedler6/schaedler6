@@ -7,7 +7,12 @@
 - **Curso:** Técnico em Desenvolvimento de Sistemas
 
 ## Sobre Mim
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+Sidinei Roberto Schaedler
+🔧 Desenvolvedor e Designer Criativo
+🎓 Estudante de Desenvolvimento de Sistemas no Senac
+🎨 Estilista e Fundador da Marca SYDD1
+
+
 
 
 
