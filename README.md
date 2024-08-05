@@ -7,8 +7,7 @@
 - **Curso:** Técnico em Desenvolvimento de Sistemas
 
 ## Sobre Mim
-
-https://giphy.com/gifs/loop-motion-graphics-techno-xT9IgN8YKRhByRBzMI
+<img align="right" height="150" src="https://giphy.com/gifs/loop-motion-graphics-techno-xT9IgN8YKRhByRBzMI"  />
 
 
 
