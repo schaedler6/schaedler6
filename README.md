@@ -7,7 +7,8 @@
 - **Curso:** Técnico em Desenvolvimento de Sistemas
 
 ## Sobre Mim
-<img align="right"src="https://giphy.com/gifs/loop-motion-graphics-techno-xT9IgN8YKRhByRBzMI"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 
 
