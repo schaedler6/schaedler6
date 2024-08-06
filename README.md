@@ -1,5 +1,6 @@
 # 😁 Um pouco Sobre mim, schaedler6.
 
+![snake gif](https://github.com/schaedler6/schaedler6/blob/output/github-contribution-grid-snake.gif)
 ## Dados Pessoais
 
 - **Nome:** Sidinei Roberto Schaedler
@@ -15,7 +16,7 @@ Sidinei Roberto Schaedler
 
 
 
-![snake gif](https://github.com/schaedler6/schaedler6/blob/output/github-contribution-grid-snake.gif)
+
 
 
 ## Objetivos
