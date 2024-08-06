@@ -15,7 +15,7 @@ Sidinei Roberto Schaedler
 
 
 
-https://github.com/schaedler6/JOGOCOBRA.git
+![snake gif](https://github.com/schaedler6/schaedler6/blob/output/github-contribution-grid-snake.gif)
 
 
 ## Objetivos
