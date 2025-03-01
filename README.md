@@ -8,7 +8,7 @@
 
 ## Sobre Mim
 Sidinei Roberto Schaedler
-##"Desenvolvedor de Sistemas | Gestão de TI | Consultor de Criação e Processos de Produção para Bolsas e Acessórios | Empreendedor e Inovador"
+"Desenvolvedor de Sistemas | Gestão de TI | Consultor de Criação e Processos de Produção para Bolsas e Acessórios | Empreendedor e Inovador"
 Novo Hamburgo, Rio Grande do Sul, Brasil
 
 
