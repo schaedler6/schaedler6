@@ -67,8 +67,9 @@ Atualmente, estudo **inteligência artificial, segurança cibernética e automa�
 
 ---
 
-## 🎥 GIF Animado para dar um toque especial:
-![Luta](https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif)
+## 🎥 
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 <!-- Criado com GPRM (https://gprm.itsvg.in) -->
 
