@@ -1,4 +1,4 @@
-# 😁 Um pouco Sobre mim, schaedler6.
+# 😁 Um pouco Sobre mim, Sid Schaedler.
 
 ## Dados Pessoais
 
