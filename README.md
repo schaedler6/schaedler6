@@ -1,6 +1,5 @@
 # 😁 Um pouco Sobre mim, schaedler6.
 
-![snake gif](https://github.com/schaedler6/schaedler6/blob/output/github-contribution-grid-snake.gif)
 ## Dados Pessoais
 
 - **Nome:** Sidinei Roberto Schaedler
@@ -9,9 +8,9 @@
 
 ## Sobre Mim
 Sidinei Roberto Schaedler
-🔧 Desenvolvedor e Designer Criativo
-🎓 Estudante de Desenvolvimento de Sistemas no Senac
-* Estilista e Fundador da Marca SYDD1
+##"Desenvolvedor de Sistemas | Gestão de TI | Consultor de Criação e Processos de Produção para Bolsas e Acessórios | Empreendedor e Inovador"
+Novo Hamburgo, Rio Grande do Sul, Brasil
+
 
 
 
@@ -29,11 +28,12 @@ Sidinei Roberto Schaedler
 ## Contato
 
 - **E-mail:** schaedler6@gmail.com
-- **WhatsApp:**51997860059
+- **www.linkedin.com/in/SidSchaedler
+  
 
 ## Hi there 👋
 **schaedler6/schaedler6**@gmail.com
-**whts.51997860059
+**www.linkedin.com/in/SidSchaedler
 
 
 # 💻 Tech Stack:
