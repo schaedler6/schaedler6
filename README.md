@@ -2,11 +2,13 @@
 
 ## Sobre Mim
 **Sidinei Roberto Schaedler**  
-*"Desenvolvedor de Sistemas | Segurança da Informação | Consultor de TI | Automação & Inovação"*  
+*"Desenvolvedor de Sistemas | Segurança da Informação | Consultor de TI | Automação & Inovação | Produtor Musical"*  
 📍 Novo Hamburgo, Rio Grande do Sul, Brasil
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em desenvolvimento de sistemas, automação e segurança da informação. Trabalho constantemente para aprimorar minhas habilidades em novas tecnologias e contribuir para projetos inovadores.  
-Atualmente, estudo **inteligência artificial, segurança cibernética e automação de processos** para otimizar fluxos de trabalho e aumentar a eficiência de sistemas.
+Sou um desenvolvedor apaixonado por tecnologia, inovação e música, com experiência em desenvolvimento de sistemas, automação e segurança da informação. Trabalho constantemente para aprimorar minhas habilidades em novas tecnologias e contribuir para projetos inovadores.  
+Além do mundo da tecnologia, também sou **produtor musical amador**, criando músicas eletrônicas e instrumentais usando softwares como **Ableton Live** e **FL Studio**.
+
+Atualmente, estudo **inteligência artificial, segurança cibernética, automação de processos** e **produção musical digital**, buscando unir tecnologia e criatividade para otimizar fluxos de trabalho e expressar ideias de forma inovadora.
 
 ---
 
@@ -14,7 +16,8 @@ Atualmente, estudo **inteligência artificial, segurança cibernética e automa�
 ✅ Aprimorar minhas habilidades em **desenvolvimento de sistemas** e **segurança da informação**.  
 ✅ Contribuir para **projetos inovadores** e **open-source**.  
 ✅ Aprender **novas linguagens de programação e frameworks modernos**.  
-✅ Compartilhar conhecimento e colaborar com a comunidade tech.
+✅ Compartilhar conhecimento e colaborar com a comunidade tech.  
+✅ Evoluir como **produtor musical independente**.
 
 ---
 
@@ -23,15 +26,15 @@ Atualmente, estudo **inteligência artificial, segurança cibernética e automa�
 ✡ Explorar novas **tecnologias e linguagens de programação**.  
 ✡ Estudar sobre **inteligência artificial e aprendizado de máquina**.  
 ✡ Aprofundar conhecimentos em **segurança cibernética**.  
-✡ Criar **soluções inovadoras** para melhoria de processos.
-
+✡ Criar **soluções inovadoras** para melhoria de processos.  
+✡ Produzir **música eletrônica e instrumentais** usando **Ableton Live** e **FL Studio**.
 
 ---
 
 ## Contato
 📩 **E-mail:** [schaedler6@gmail.com](mailto:schaedler6@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/SidSchaedler](https://www.linkedin.com/in/SidSchaedler)  
-🐙 **GitHub:** [github.com/schaedler6](https://github.com/schaedler6)  
+🐙 **GitHub:** [github.com/schaedler6](https://github.com/schaedler6)
 
 ---
 
@@ -78,9 +81,14 @@ Atualmente, estudo **inteligência artificial, segurança cibernética e automa�
 ## Inteligência Artificial e Machine Learning:
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 - ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-- ![Scikit-learn](https://img.shields.io/badge/Scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+---
 
+## Produção Musical 🎶
+- ![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
+- ![FL Studio](https://img.shields.io/badge/FL_Studio-FF7F50?style=for-the-badge&logo=flstudio&logoColor=white)
 
+---
 
 
