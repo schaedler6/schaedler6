@@ -1,114 +1,147 @@
-# Um pouco sobre mim, Sid Schaedler
+# Sidinei Roberto Schaedler
 
-## Sobre Mim
+**IT Support Analyst | Systems Development Student | Cybersecurity | PowerShell | Java | Python | Julia**
 
-**Sidinei Roberto Schaedler**  
-**Desenvolvedor de Sistemas | Segurança da Informação | Automação | Infraestrutura | Inteligência Artificial | Produtor Musical**  
 📍 Novo Hamburgo, Rio Grande do Sul, Brasil  
-
-Sou um desenvolvedor com foco em automação, segurança da informação e infraestrutura de sistemas Windows. Tenho experiência prática na criação de ferramentas em PowerShell, automação de processos, diagnóstico de sistemas e administração de ambientes computacionais.
-
-Atualmente estudo e aplico conhecimentos em:
-
-- Automação com PowerShell  
-- Segurança da Informação e Cybersecurity  
-- Administração de sistemas Windows  
-- Infraestrutura e diagnóstico de sistemas  
-- Inteligência Artificial aplicada à automação  
-- Git, GitHub e controle de versão  
-
-Além da área técnica, também atuo como **produtor musical independente**, criando músicas eletrônicas e instrumentais utilizando **Ableton Live** e **FL Studio**, integrando tecnologia e criatividade.
-
-Meu objetivo é atuar profissionalmente na área de tecnologia, contribuindo com automação, segurança, suporte técnico e desenvolvimento de soluções eficientes.
-
----
-
-## Objetivos
-
-- Desenvolver soluções de automação para ambientes Windows  
-- Atuar na área de IT Support, Cybersecurity ou System Administration  
-- Contribuir para projetos open-source  
-- Aprimorar habilidades em PowerShell, infraestrutura e segurança  
-- Evoluir continuamente como profissional de tecnologia  
-
----
-
-## Áreas de Interesse
-
-- Automação de sistemas  
-- Segurança da Informação  
-- Cybersecurity  
-- Administração de sistemas Windows  
-- Inteligência Artificial aplicada à automação  
-- Infraestrutura e diagnóstico de sistemas  
-- Produção musical digital  
-
----
-
-## Contato
-
-📩 Email: schaedler6@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/SidSchaedler  
+📧 schaedler6@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/sidschaedler  
 🐙 GitHub: https://github.com/schaedler6  
 
 ---
 
-# Tech Stack
+## About Me
 
-## Linguagens e Scripting
+I am an IT Support Analyst in structured transition to the technology field, with hands-on experience in troubleshooting, remote support, and Windows environments.
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+I have practical experience working with:
 
----
+- Windows administration and diagnostics
+- TCP/IP networking, DNS and VPN troubleshooting
+- Remote support tools and system diagnostics
+- PowerShell automation and system analysis
+- Virtualization and Docker environments
+- Technical troubleshooting and incident resolution
 
-## Automação e Ferramentas
+Currently studying **Systems Analysis and Development**, with strong focus on:
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- IT Support (Service Desk N1/N2)
+- Cybersecurity fundamentals
+- Systems automation
+- Infrastructure and diagnostics
+- Software development using Python, Java and Julia
 
----
-
-## Infraestrutura e Sistemas
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge)
-
----
-
-## Segurança da Informação
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge)
-![System Monitoring](https://img.shields.io/badge/System_Monitoring-4CAF50?style=for-the-badge)
+I am passionate about technology, automation, and building tools that improve efficiency and system reliability.
 
 ---
 
-## Inteligência Artificial
+## Technical Skills
 
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
+### Operating Systems
+- Windows 10 / 11 administration and troubleshooting
+
+### IT Support & Infrastructure
+- Technical support and troubleshooting
+- Remote support (RDP, AnyDesk, TeamViewer)
+- VPN configuration and diagnostics
+- Hardware and software diagnostics
+- Incident analysis and resolution
+
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- VPN
+
+### Programming & Automation
+- PowerShell
+- Python
+- Java
+- Julia
+
+### Virtualization & Containers
+- Docker (basic)
+- Virtual environments
+
+### System Diagnostics & Monitoring
+- System information collection
+- Performance analysis
+- Process monitoring
+- Network diagnostics
 
 ---
 
-## Produção Musical
+## Projects
 
-![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
-![FL Studio](https://img.shields.io/badge/FL_Studio-FF7F50?style=for-the-badge)
+### Windows Support Toolkit
+PowerShell toolkit for network diagnostics and troubleshooting.
+
+Features:
+
+- IP configuration analysis
+- Network adapter status
+- DNS resolution testing
+- Routing diagnostics
+
+Repository:  
+https://github.com/schaedler6/windows-support-toolkit
 
 ---
 
-## Projetos em destaque
+### System Info Toolkit
+PowerShell toolkit for collecting system diagnostics information.
 
-- system-info-toolkit  
-  Toolkit PowerShell para coleta e análise de informações do sistema  
+Features:
 
-- windows-support-toolkit  
-  Ferramentas PowerShell para diagnóstico e suporte técnico  
+- System uptime analysis
+- CPU and RAM information
+- Disk usage monitoring
+- Network adapter diagnostics
+- Process monitoring
+
+Repository:  
+https://github.com/schaedler6/system-info-toolkit
 
 ---
 
-## Autor
+## Education
+
+Systems Analysis and Development  
+Feevale University  
+2025 – 2027
+
+---
+
+## Career Focus
+
+Currently focused on opportunities in:
+
+- IT Support Analyst
+- Service Desk N1 / N2
+- Technical Support
+- Infrastructure Junior
+- Cybersecurity Junior
+
+---
+
+## Goals
+
+- Build practical IT support and automation tools
+- Contribute to open source projects
+- Develop strong cybersecurity and infrastructure skills
+- Advance in systems automation and diagnostics
+
+---
+
+## Tools & Technologies
+
+PowerShell • Python • Java • Julia • Windows • Docker • Git • Networking • VPN • Troubleshooting • System Diagnostics
+
+---
+
+## Author
 
 Sidinei Roberto Schaedler  
-IT Support | Cybersecurity Student | Systems Automation
+IT Support | Systems Development Student | Cybersecurity  
+
+GitHub: https://github.com/schaedler6  
+LinkedIn: https://linkedin.com/in/sidschaedler
