@@ -1,60 +1,27 @@
-# Hi, I'm Sidinei Roberto Schaedler
+# Sidinei Schaedler
 
-IT Support professional in transition to Tech, focused on Windows diagnostics, troubleshooting, automation, and infrastructure.
+Estudante de ADS e Cibersegurança, com foco em automação, IA, suporte técnico, projetos digitais e desenvolvimento prático.
 
-## About Me
+## Tecnologias e interesses
+- PowerShell
+- Python
+- Docker
+- Git e GitHub
+- Automação
+- Inteligência Artificial
+- Cibersegurança
 
-I am a Systems Analysis and Development student with a strong interest in IT Support, Cybersecurity, Infrastructure, and Automation.
+## Destaques
+- Projetos de automação local
+- Experimentos com agentes
+- Ferramentas para suporte e produtividade
+- Protótipos visuais e jogos em HTML
 
-I build practical projects focused on:
-- Windows diagnostics
-- PowerShell automation
-- Python scripting
-- Troubleshooting and incident analysis
-- Networking fundamentals
-- Support-oriented tools
+## Snake de contribuições
 
-## Main Skills
-
-- Windows 10 / 11 troubleshooting
-- PowerShell automation
-- Python scripting
-- Java fundamentals
-- TCP/IP, DNS, DHCP, VPN
-- Remote support and diagnostics
-- Docker and virtual environments
-- System monitoring and incident analysis
-
-## Featured Projects
-
-### Windows Support Toolkit
-PowerShell toolkit for Windows troubleshooting, DNS tests, connectivity checks, and support routines.
-
-### System Info Toolkit
-PowerShell toolkit to collect system information for diagnostics, auditing, and support analysis.
-
-### Projeto Selenium
-Automation-focused project using Selenium WebDriver and Python for testing and browser workflow practice.
-
-### Sidloto
-Python-based project focused on data analysis, automation, and applied logic.
-
-## Career Focus
-
-Currently focused on opportunities in:
-- IT Support
-- Service Desk N1 / N2
-- Technical Support
-- Junior Infrastructure
-- Junior Cybersecurity
-
-## Tech Stack
-
-PowerShell • Python • Java • Windows • Docker • Git • Networking • Troubleshooting
-
-## Contact
-
-- GitHub: https://github.com/schaedler6
-- LinkedIn: https://linkedin.com/in/sidschaedler
-- Email: schaedler6@gmail.com
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake.svg">
+</picture>
 
