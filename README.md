@@ -1,6 +1,6 @@
 # Sidinei Schaedler
 
-  Estudante de Análise e Desenvolvimento de Sistemas e Cibersegurança, com foco em automação, inteligência artificial, suporte técnico e desenvolvimento prático.
+ Estudante de Análise e Desenvolvimento de Sistemas e Cibersegurança, com foco em automação, inteligência artificial, suporte técnico e desenvolvimento prático.
 
 ## Perfil
 Busco criar soluções úteis e funcionais com ênfase em automação, produtividade, infraestrutura, suporte técnico e projetos digitais. Tenho interesse especial em ferramentas que unam praticidade, experimentação e aplicação real.
