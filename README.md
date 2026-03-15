@@ -19,4 +19,8 @@ Estudante de ADS e Cibersegurança, com foco em automação, IA, suporte técnic
 
 ## Pac-Man de contribuições
 
-![Pac-Man animation](https://raw.githubusercontent.com/schaedler6/animePac/output/pacman.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph.svg">
+</picture>
