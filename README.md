@@ -1,21 +1,25 @@
 # Sidinei Schaedler
 
-Estudante de ADS e Cibersegurança, com foco em automação, IA, suporte técnico, projetos digitais e desenvolvimento prático.
+Estudante de Análise e Desenvolvimento de Sistemas e Cibersegurança, com foco em automação, inteligência artificial, suporte técnico e desenvolvimento prático.
 
-## Tecnologias e interesses
+## Perfil
+Busco criar soluções úteis e funcionais com ênfase em automação, produtividade, infraestrutura, suporte técnico e projetos digitais. Tenho interesse especial em ferramentas que unam praticidade, experimentação e aplicação real.
+
+## Stack e áreas de interesse
 - PowerShell
 - Python
 - Docker
 - Git e GitHub
-- Automação
+- Automação de processos
 - Inteligência Artificial
 - Cibersegurança
+- Suporte técnico
 
-## Destaques
-- Projetos de automação local
-- Experimentos com agentes
-- Ferramentas para suporte e produtividade
-- Protótipos visuais e jogos em HTML
+## Projetos em destaque
+- Automações em PowerShell
+- Scripts utilitários e produtividade
+- Experimentos com agentes e fluxos automatizados
+- Ferramentas para suporte técnico
 
 ## Pac-Man de contribuições
 
