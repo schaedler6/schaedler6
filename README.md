@@ -17,11 +17,6 @@ Estudante de ADS e Cibersegurança, com foco em automação, IA, suporte técnic
 - Ferramentas para suporte e produtividade
 - Protótipos visuais e jogos em HTML
 
-## Snake de contribuições
+## Pac-Man de contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake.svg">
-</picture>
-
+![Pac-Man animation](https://raw.githubusercontent.com/schaedler6/animePac/output/pacman.svg)
