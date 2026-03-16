@@ -38,6 +38,7 @@ Estudante de ADS e Cibersegurança, com foco em automação, PowerShell, suporte
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph.svg">
 </picture>
+'@ | Set-Content README.md -Encoding UTF8
 
 
 ## Objetivo profissional
