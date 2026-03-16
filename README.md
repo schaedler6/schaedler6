@@ -23,4 +23,4 @@ Busco criar soluções úteis e funcionais com ênfase em automação, produtivi
 
 ## Pac-Man de contribuições
 
-![Pac-Man contribution graph](https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph.svg)>
+https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph-dark.svg
