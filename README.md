@@ -39,6 +39,7 @@ Estudante de ADS e Cibersegurança, com foco em automação, PowerShell, suporte
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake.svg">
 </picture>
 
+
 ## Objetivo profissional
 Construir soluções úteis, aprender de forma prática e fortalecer um portfólio alinhado a automação, suporte técnico, infraestrutura, testes e segurança.
 
