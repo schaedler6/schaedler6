@@ -33,7 +33,11 @@ Estudante de ADS e Cibersegurança, com foco em automação, PowerShell, suporte
   Projeto visual com workflow estilo Pac-Man no GitHub.
 
 ## Pac-Man
-![Snake animation](https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/schaedler6/schaedler6/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## Objetivo profissional
 Construir soluções úteis, aprender de forma prática e fortalecer um portfólio alinhado a automação, suporte técnico, infraestrutura, testes e segurança.
