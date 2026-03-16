@@ -32,7 +32,8 @@ Estudante de ADS e Cibersegurança, com foco em automação, PowerShell, suporte
 - [animePac](https://github.com/schaedler6/animePac)  
   Projeto visual com workflow estilo Pac-Man no GitHub.
 
-## Pac-Man
+## Pac-Man de contribuições
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph.svg">
