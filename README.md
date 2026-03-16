@@ -3,24 +3,27 @@
 Estudante de Análise e Desenvolvimento de Sistemas e Cibersegurança, com foco em automação, inteligência artificial, suporte técnico e desenvolvimento prático.
 
 ## Perfil
-Busco criar soluções úteis e funcionais com ênfase em automação, produtividade, infraestrutura, suporte técnico e projetos digitais. Tenho interesse especial em ferramentas que unam praticidade, experimentação e aplicação real.
+
+Busco criar soluções úteis e funcionais com ênfase em automação, produtividade, infraestrutura, suporte técnico e projetos digitais.
 
 ## Stack e áreas de interesse
+
 - PowerShell
 - Python
 - Docker
 - Git e GitHub
-- Automação de processos
+- Automação
 - Inteligência Artificial
 - Cibersegurança
 - Suporte técnico
 
 ## Projetos em destaque
+
 - Automações em PowerShell
-- Scripts utilitários e produtividade
-- Experimentos com agentes e fluxos automatizados
+- Scripts de produtividade
+- Experimentos com agentes
 - Ferramentas para suporte técnico
 
 ## Pac-Man de contribuições
 
-![Pac-Man contribution graph](https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph.svg)
+![Pac-Man contribution graph dark](https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph-dark.svg)
