@@ -15,7 +15,7 @@ Busco criar soluções úteis e funcionais com ênfase em automação, produtivi
 - Automação
 - Inteligência Artificial
 - Cibersegurança
-- Suporte técnico
+- Suport técnico
 
 ## Projetos em destaque
 
