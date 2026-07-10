@@ -46,4 +46,8 @@ Busco oportunidade como **QA Júnior**, estágio em tecnologia ou suporte técni
 
 ## Contribuições
 
-![Pac-Man contribution graph dark](https://raw.githubusercontent.com/schaedler6/animePac/output/pacman-contribution-graph-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/schaedler6/schaedler6/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/schaedler6/schaedler6/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico animado de contribuições do Pac-Man" src="https://raw.githubusercontent.com/schaedler6/schaedler6/output/pacman-contribution-graph.svg">
+</picture>
